@@ -1,4 +1,5 @@
-// Ejercicio 3 – Calcular salario bruto, descuentos y salario neto usando la fórmula dada
+// Ejercicio 3 – Calcular salario bruto, descuentos y salario neto usando la 
+// fórmula dada
 // Autora: Aleyda Quispe
 
 let salarioBase = Number(prompt("Ingrese el salario base: "));
