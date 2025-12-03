@@ -33,7 +33,6 @@ if (restante > 50000)
 else
     restante = 0;
 if (ingresoAnual > 100000)
-
     impuestoTramo4 = (ingresoAnual - 100000) * 0.30;
 let impuestoTotal = impuestoTramo2 + impuestoTramo3 + impuestoTramo4;
 let tasaEfectiva = (impuestoTotal / ingresoAnual) * 100;
